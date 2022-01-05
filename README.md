@@ -1,5 +1,8 @@
 
-### Olá! Eu sou o Luciano Spindola 🖐️🖥️
+### Olá! Eu sou o Luciano Spindola 🖐️🖥️ 
+
+👨🏽‍🎓 Atualmente estudo Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul <br/>
+✔️ Estudando HTML5, CSS3 e JavaScript.
 
 [![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianospindola/)
 
@@ -14,7 +17,7 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br/><br>
 
-Apaixonado por tecnologia, educação e tornar a vida das pessoas mais práticas.<br/><br/><b>
+Apaixonado pelo mundo da tecnologia e por todas as transformações que ela pode trazer para a vida das pessoas.<br/><br/><b>
 Meus contatos:</b><br/>
 WhatsApp: (41) 9 9515-2136<br/>
 E-mail: lusp86@gmail.com
